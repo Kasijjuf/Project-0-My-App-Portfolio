@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Project 0: My App Portfolio</string>
+
+    <string name="button_movies">Movies App</string>
+    <string name="button_scores">Scores App</string>
+    <string name="button_library">Library App</string>
+    <string name="button_build_bigger">Build It Bigger</string>
+    <string name="button_xyz_reader">XYZ Reader</string>
+    <string name="button_capstone">Capstone: My Own App</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
